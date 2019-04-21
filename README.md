@@ -94,7 +94,7 @@ We build a GUI and you can build you own character in Game of Thrones.
 
 # Further Development
 ## Time Complexity: 
-The algorithm to scrap the website is time-consuming(O(n^2)).
+The algorithm to crawl the website is time-consuming(O(n^2)).
 ## Better GUI: 
 we could add more features for our GUI and make it more attractive.
 

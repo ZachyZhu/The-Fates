@@ -51,7 +51,7 @@ isAlive	binary	1 the character is alive, otherwise dead
 
 
 ##  data visualization
-We used the amazing plot package(plotly) and wordcloud to visualize all the pictures, here are two samples of our visualization:
+We used the amazing plot package(plotly) and wordcloud to visualize all the pictures.
          
                     
 ## Text mining and data analytics of tweets

@@ -27,7 +27,6 @@ We used two datasets, the main one is the dataset from Kaggle and another one is
 Our original dataset has 1946 piece of data and each for a character. There are 13 features and after cleaning we have 8 features left, for the culture feature and identity feature: we get them using web scraping and natural language processing methods 
 (https://github.com/ZachyZhu/The-Fates/blob/master/Data_processing%20_final.ipynb):
 
-Table 2.1 dataset information
 features	type	values
 male	binary	1 is male, otherwise 0
 culture	string	Rivermen, Dornish, Braavosi….
@@ -38,6 +37,7 @@ isNoble	binary	1 is noble, otherwise 0
 numDead	integer	Integer values stands for number of dead relatives for this character
 identity	string	King, knight, lord, official, noble, prince, warrior, smallfolk
 isAlive	binary	1 the character is alive, otherwise dead
+
 
 
 
@@ -65,6 +65,7 @@ We also draw a summary of the tweets on twitter for the characters.
 
 3.4. Network
 Since there are so many characters, we build a network based on five most important characters, the color of line the size of the nodes varies according to the weights.
+
                       
 Figure 2.5 the network for all characters                          Figure 2.6 the network for 5 main characters
 

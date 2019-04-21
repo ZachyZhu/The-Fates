@@ -20,7 +20,7 @@ We used numpy, pandas, plotly, BeautifulSoup, nltk, networkx, sklearn and tkinte
 Thanks them :).
 
 
-# Main Features
+#Main Features
 ## data cleaning
 We used two datasets, the main one is the dataset from Kaggle and another one is from github. (https://www.kaggle.com/mylesoneill/game-of-thrones) 
 (https://github.com/mathbeveridge/asoiaf)

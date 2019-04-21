@@ -53,13 +53,10 @@ isAlive	binary	1 the character is alive, otherwise dead
 ##  data visualization
 We used the amazing plot package(plotly) and wordcloud to visualize all the pictures, here are two samples of our visualization:
          
-                     Figure 2.1 Number of alive and dead relative                                   Figure 2.2 Wordcloud for dead families
-
-
+                    
 ## Text mining and data analytics of tweets
 We used text mining and two sentiment analytics method for eight main characters. And draw the line chart and heatmap to visualize the result. 
-               
-            Figure 2.3 the sentiment analysis line chart                                            Figure 2.4 the heatmap of sentiment analysis
+        
 
 We also draw a summary of the tweets on twitter for the characters.
 
@@ -67,7 +64,6 @@ We also draw a summary of the tweets on twitter for the characters.
 Since there are so many characters, we build a network based on five most important characters, the color of line the size of the nodes varies according to the weights.
 
                       
-Figure 2.5 the network for all characters                          Figure 2.6 the network for 5 main characters
 
 
 ## Machine Learning
@@ -75,9 +71,7 @@ We trained our dataset with 6 machine learning algorithms, and solved the two pr
 (1) Firstly, used SMOTE and RandomOverSampler to create more samples and solved the problem of Dataset skewness.
 (2) Then, we used Principal component analysis (PCA) to reduce feature dimension.
 (3) Choose suitable ML algorithm to compute the accuracy by using cross validation, and grid search the hyperparameter.
-Below is the result of our Machine Learning algorithms:
- 
-Figure 2.7 Machine Learning Results
+
 
 
 ## GUI

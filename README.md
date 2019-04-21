@@ -97,7 +97,7 @@ We used many data analytics methods to present the data and analyzed them, we us
 We tried a lot of machine learning algorithms and used many methods to solve the skewness problem and do dimension reduction to make our dataset more suitable for machine learning.
 4.5 Interactive experience
 We build a GUI and you can build you own character in Game of Thrones.
-
+![](https://github.com/ZachyZhu/The-Fates/blob/master/Game%20of%20Thrones%20GUI.jpg)
 
 5. Further Development
 5.1. Time Complexity: 
